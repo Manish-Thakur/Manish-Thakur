@@ -1,7 +1,7 @@
 
 # Let's talk about Manish [![HitCount](http://hits.dwyl.com/Manish-Thakur/Manish-Thakur.svg)](http://hits.dwyl.com/Manish-Thakur/Manish-Thakur)
 
-As someone who is always passionate for learning more about new technologies and experiencing old ones. Manish grew up developing python scripts, responsive web applications and ever since he's a self taught app developer. From those humble beginnings, he has evolved into a Full Stack Developer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. In his free time, he likes to enjoy a cup of coffee ☕️ , watching good movies & tv shows 🤔 . He is also a backpacker who likes to go on frequent trips!
+As someone who is always passionate for learning more about new technologies and experiencing old ones. Manish grew up developing python scripts, responsive web applications and ever since he's a self taught app developer. From those humble beginnings, he has evolved into a Full Stack Developer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. In his free time, he likes to enjoy a cup of coffee ☕️ , watching good movies & tv shows 👯 . He is also a backpacker who likes to go on frequent trips!
 
   <!-- * 👨🏻‍💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company. -->
 
