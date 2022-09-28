@@ -5,8 +5,8 @@ As someone who is always passionate for learning more about new technologies and
 
   <!-- * 👨🏻‍💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company. -->
 
-- 💬 &nbsp; People ask him about `C#, Javascript, Python, etc`.
-- 📖 &nbsp; Learning about `Django.
+- 💬 &nbsp; People ask him about `App Development and Software Designs`.
+- 📖 &nbsp; Learning about `JavaScript Libraries.
 <!-- * 🤝 &nbsp; Contribute to Open Source Projects -->
 
 <br />
