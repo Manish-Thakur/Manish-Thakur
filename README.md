@@ -1,5 +1,5 @@
 
-# Let's talk about Manish   [![HitCount](https://hits.dwyl.com/manishkth19@gmailcom/https://githubcom/Manish-Thakur/Manish-Thakurgit.svg?style=flat-square&show=unique)](http://hits.dwyl.com/manishkth19@gmailcom/https://githubcom/Manish-Thakur/Manish-Thakurgit)
+# Let's talk about Manish    [![HitCount](https://hits.dwyl.com/manishkth19@gmailcom/https://githubcom/Manish-Thakur.svg?style=flat-square&show=unique)](http://hits.dwyl.com/manishkth19@gmailcom/https://githubcom/Manish-Thakur)
 
 As someone who is always passionate for learning more about new technologies and experiencing old ones. Manish grew up developing scripts, building responsive websites and projects ever since he's become a self taught application developer. From those humble beginnings, he has evolved into a Software Developer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. In his free time, he loves to enjoy a cup of coffee ☕️ , watching good movies & tv shows 👯 . He is also a backpacker who likes to go on frequent trips ! 
 
