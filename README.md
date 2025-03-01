@@ -6,7 +6,7 @@ As someone who is always passionate for learning more about new technologies and
   <!-- * 👨🏻‍💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company. -->
 
 - 💬 &nbsp; People ask him about `Software Application Development and Software Designs`.
-- 📖 &nbsp; Learning about `Full Stack Web Developemnt'.
+- 📖 &nbsp; Learning about `Full Stack Web Development'.
 <!-- * 🤝 &nbsp; Contribute to Open Source Projects -->
 
 <br />
